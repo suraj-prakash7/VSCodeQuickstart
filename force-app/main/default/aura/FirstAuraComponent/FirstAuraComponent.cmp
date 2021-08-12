@@ -1,0 +1,5 @@
+<aura:component> <force:LightningQuickAction>
+    Hello World !!
+</force:LightningQuickAction>
+
+</aura:component>	
